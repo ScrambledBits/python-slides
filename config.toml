@@ -1,6 +1,6 @@
-baseURL = 'https://scrambledbits.github.io/python-basico/'
+baseURL = 'https://scrambledbits.github.io/python-slides/'
 languageCode = 'en-us'
-title = 'ScrambledBits | Presentations'
+title = 'ScrambledBits | Curso de Python'
 
 theme = ["github.com/dzello/reveal-hugo"]
 
@@ -18,7 +18,7 @@ mediaType = "text/html"
 isHTML = true
 
 [params.reveal_hugo]
-theme = "blood"
+theme = "night"
 controls_tutorial = true
 slide_number = true
 show_slide_number = "print"
